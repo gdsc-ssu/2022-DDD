@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "enif-lee",
+      "name": "enif.lee (eric at CHAI)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9916002?v=4",
+      "profile": "http://sticky32.tistory.com/",
+      "contributions": [
+        "blog"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "2022-DDD",
+  "projectOwner": "gdsc-ssu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
