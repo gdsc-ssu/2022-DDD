@@ -19,6 +19,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://sticky32.tistory.com/"><img src="https://avatars.githubusercontent.com/u/9916002?v=4?s=100" width="100px;" alt=""/><br /><sub><b>enif.lee (eric at CHAI)</b></sub></a><br /><a href="#blog-enif-lee" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/yeonnex"><img src="https://avatars.githubusercontent.com/u/82166132?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yeonnex</b></sub></a><br /><a href="#blog-yeonnex" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/ohjinhokor"><img src="https://avatars.githubusercontent.com/u/71378447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>오진호</b></sub></a><br /><a href="#blog-ohjinhokor" title="Blogposts">📝</a></td>
   </tr>
 </table>
 
