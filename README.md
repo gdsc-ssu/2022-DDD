@@ -8,6 +8,16 @@
 ![스터디 모습](images/main.png)
 
 
+## Plan
+
+- [x] 1 ~ 3 chapters 오진호
+- [x] 4 ~ 6 chapters 장서연
+- [x] 7 ~ 9 chapters 이진성
+- [x] 10 ~ 11 chapters 오진호
+- [x] 12 ~ 13 chapters 이진성
+- [ ] 14 ~ 15 chapters 장서연
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
